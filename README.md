@@ -21,4 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kobbie-Korsah&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# More About Me Can Be Found On My Portoflio Below:
+![](https://kobbie-korsah.lovable.app/)
