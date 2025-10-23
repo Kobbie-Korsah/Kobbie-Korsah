@@ -22,5 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=Kobbie-Korsah&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # More About Me Can Be Found On My Portoflio Below:
-[![Portfolio]([https://github.com/Kobbie-Korsah/Kobbie-Korsah/blob/main/kk-logo.png])](https://kobbie-korsah.lovable.app/)
+[![Portfolio]([https://github.com/Kobbie-Korsah/Kobbie-Korsah/blob/main/kk-logo.png?raw=true])](https://kobbie-korsah.lovable.app/)
 
