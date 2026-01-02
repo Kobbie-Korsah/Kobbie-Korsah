@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="KK%20logo%20version%202%20-%20PNG.png" alt="Kobbie Korsah logo" width="140" />
+  <img src="KK%20logo%20version%202%20-%20PNG.png" alt="Kobbie Korsah logo" width="500" />
   <h1>Hi, I'm Kobbie Korsah</h1>
   <p><b>Aspiring Software Engineer</b> building tools I wish existed and learning every day.</p>
   <p>
