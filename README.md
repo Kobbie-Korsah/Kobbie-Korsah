@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <img src="KK%20logo%20version%202%20-%20PNG.png" alt="Kobbie Korsah logo" width="140" />
   <h1>Hi, I'm Kobbie Korsah</h1>
-  <p><b>Aspiring Software Developer</b> building tools I wish existed and learning every day.</p>
+  <p><b>Aspiring Software Engineer</b> building tools I wish existed and learning every day.</p>
   <p>
     <a href="https://www.linkedin.com/in/kobbie-korsah-400685369/">LinkedIn</a> ·
     <a href="https://x.com/OfficialKobbieK">X</a> ·
