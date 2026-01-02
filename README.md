@@ -1,11 +1,11 @@
-<div align="center">
+ï»¿<div align="center">
   <img src="KK%20logo%20version%202%20-%20PNG.png" alt="Kobbie Korsah logo" width="140" />
   <h1>Hi, I'm Kobbie Korsah</h1>
   <p><b>Aspiring Software Developer</b> building tools I wish existed and learning every day.</p>
   <p>
-    <a href="https://www.linkedin.com/in/kobbie-korsah-400685369/">LinkedIn</a> ·
-    <a href="https://x.com/OfficialKobbieK">X</a> ·
-    <a href="mailto:kobbykorsah06@gmail.com">Email</a> ·
+    <a href="https://www.linkedin.com/in/kobbie-korsah-400685369/">LinkedIn</a> Â·
+    <a href="https://x.com/OfficialKobbieK">X</a> Â·
+    <a href="mailto:kobbykorsah06@gmail.com">Email</a> Â·
     <a href="https://kobbiekorsah.dev/">Portfolio</a>
   </p>
 </div>
@@ -24,11 +24,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kobbie-Korsah&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Kobbie-Korsah&theme=dark&hide_border=true" alt="GitHub streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobbie-Korsah&theme=dark&hide_border=true&layout=compact&cache_seconds=86400" alt="Top languages" height="160" />
-</div>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kobbie-Korsah&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kobbie-Korsah&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kobbie-Korsah&theme=github_dark)
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -38,5 +36,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kobbie-Korsah&style=flat&color=blue)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Kobbie-Korsah.Kobbie-Korsah)
+
 
