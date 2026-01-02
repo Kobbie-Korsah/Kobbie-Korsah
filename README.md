@@ -25,9 +25,9 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kobbie-Korsah&theme=dark&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kobbie-Korsah&theme=dark&hide_border=true" alt="GitHub streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobbie-Korsah&theme=dark&hide_border=true&layout=compact" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kobbie-Korsah&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Kobbie-Korsah&theme=dark&hide_border=true" alt="GitHub streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobbie-Korsah&theme=dark&hide_border=true&layout=compact&cache_seconds=86400" alt="Top languages" height="160" />
 </div>
 
 ## Random Dev Quote
@@ -38,4 +38,5 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Kobbie-Korsah&icon=0&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=Kobbie-Korsah&style=flat&color=blue)
+
