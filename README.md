@@ -13,7 +13,7 @@
 ---
 
 ## About Me
-- 🖥️ Aspiring software developer on a mission to change the world of tech, one line at a time.
+- 🖥️ Aspiring software engineer on a mission to change the world of tech, one line at a time.
 - 📖 Studying Maths, Computer Science, and Economics (A-Level).
 - 🧰 Building programs I want to use to make a real impact.
 - 🧠 Learning JavaScript and TypeScript while developing in Python and C#.
