@@ -13,10 +13,10 @@
 ---
 
 ## About Me
-- ????? Aspiring software developer on a mission to change the world of tech, one line at a time.
-- ????? Studying Maths, Computer Science, and Economics (A-Level).
-- ?? Building programs I want to use to make a real impact.
-- ??? Learning JavaScript while developing in Python and C#.
+- 🖥️ Aspiring software developer on a mission to change the world of tech, one line at a time.
+- 📖 Studying Maths, Computer Science, and Economics (A-Level).
+- 🧰 Building programs I want to use to make a real impact.
+- 🧠 Learning JavaScript and TypeScript while developing in Python and C#.
 
 ## Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
