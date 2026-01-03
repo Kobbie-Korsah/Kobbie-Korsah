@@ -42,8 +42,6 @@
 ## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kobbie-Korsah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Kobbie-Korsah.Kobbie-Korsah)
 
 
