@@ -23,6 +23,19 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
+<!-- Tech Stack -->
+<p align="left">
+  <a href="https://github-readme-tech-stack.vercel.app/api/cards?
+    title=Tech%20Stack&align=center&lineCount=2&theme=github">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?
+    title=Tech%20Stack&align=center&lineCount=2&theme=github&hideBorder=true&fontSize=18&lineHeight=10&width=500&bg=%23fff
+    fff&text=%23000000&line1=javascript%2C%23f7df1e%2Ctypescript%2C%233178c6%2Cpython%2C%232c74c3%2Ccsharp%2C%23823198" />
+  </a>
+</p>
+
+
+
 ## GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kobbie-Korsah&theme=github_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kobbie-Korsah&theme=github_dark)
